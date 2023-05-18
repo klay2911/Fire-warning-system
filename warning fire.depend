@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649864884 source:f:\bai tap c\warning fire\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+
